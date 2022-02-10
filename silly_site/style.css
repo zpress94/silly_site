@@ -1,0 +1,28 @@
+* {
+    background: blanchedalmond;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.top {
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.button-text {
+    padding: 20px;
+     background: burlywood;
+}
+
+button {
+    border-radius: 25px;
+    font-size: large;
+    background: burlywood;
+}
